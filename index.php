@@ -1,7 +1,19 @@
 <?php
+    echo "<pre>"; 
 
-    var_dump(2 > 2 or 2 == 2); echo "<br>";
+    echo "associative: ";
+    $user = array('name' => 'testuser', 'age' => 20);
+    var_dump($user);
+    echo "<br>";
 
-    var_dump(2 === "2");
-    
+    echo("multidimentional :");
+    $profile = array(
+        'name' => 'John',
+        'age' => 20,
+        'language' => array('PHP', 'JS', 'HTML'),
+        'hobby' => 'coding'
+    );
+
+
+    var_dump($profile);
 ?>
