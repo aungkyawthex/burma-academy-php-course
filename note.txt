@@ -7,3 +7,16 @@ Java => Java Compiler
 Rust => Rust Compiler
 
 Interpreter => 
+
+// C programing language
+
+stdin 
+    Standard input 
+        - keyboard
+
+stdout
+    Standard output 
+        - computer monitor
+
+stdio 
+    Standard input/output
