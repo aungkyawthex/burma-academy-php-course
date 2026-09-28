@@ -1,0 +1,9 @@
+compiler vs interpreter
+
+Compiler => Source Code > Compiler > Machine Code
+
+C => C compiler
+Java => Java Compiler
+Rust => Rust Compiler
+
+Interpreter => 
